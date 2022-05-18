@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AF81833227D13D5600BDAB82 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AF81833127D13D5600BDAB82 /* main.cpp */; };
+		AF81833227D13D5600BDAB82 /* weakptrexample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AF81833127D13D5600BDAB82 /* weakptrexample.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		AF81832E27D13D5600BDAB82 /* WeakPointersTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = WeakPointersTest; sourceTree = BUILT_PRODUCTS_DIR; };
-		AF81833127D13D5600BDAB82 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		AF81833127D13D5600BDAB82 /* weakptrexample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = weakptrexample.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		AF81833027D13D5600BDAB82 /* WeakPointersTest */ = {
 			isa = PBXGroup;
 			children = (
-				AF81833127D13D5600BDAB82 /* main.cpp */,
+				AF81833127D13D5600BDAB82 /* weakptrexample.cpp */,
 			);
 			path = WeakPointersTest;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF81833227D13D5600BDAB82 /* main.cpp in Sources */,
+				AF81833227D13D5600BDAB82 /* weakptrexample.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
